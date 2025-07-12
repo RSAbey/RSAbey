@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Rusiru Abeywickrama.</h1>
+<h1 align="center">Hi 👋, I'm Rusiru Abeywickrama.</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsabey&label=Profile%20views&color=0e75b6&style=flat" alt="rsabey" /> </p>
