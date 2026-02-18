@@ -57,7 +57,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RSAbey&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rsabey&theme=algolia&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -74,7 +74,7 @@
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" /></a>
+  <a href="https://opencv.org/"><img src="https://cdn.worldvectorlogo.com/logos/opencv-icon.svg" alt="OpenCV" width="48" height="48" /></a>
   <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
@@ -101,10 +101,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RSAbey&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RSAbey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsabey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rsabey&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RSAbey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=rsabey&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 </p>
