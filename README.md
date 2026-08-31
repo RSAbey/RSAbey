@@ -16,7 +16,7 @@
 ## ✨ About Me
 
 - 🔭 I’m currently working on **[360Technologies](https://360tecnologies.com)**
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **.NET**
 - 👨‍💻 All of my projects are available at **[rsabey.me](https://rsabey.me)**
 - 💬 Ask me about **Java**
 - 📫 Reach me at **[sachinthakarusiru40@gmail.com](mailto:sachinthakarusiru40@gmail.com)**
